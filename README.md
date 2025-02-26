@@ -20,7 +20,7 @@ StepMath: `data/stepmath.jsonl`
 python agent.py
 ```
 
-### Use Four External Extension Modules in StepMathBench
+### Use Four External Extension Modules in StepMathAgent
 
 ```python
 # Modify model_name in agent.py
