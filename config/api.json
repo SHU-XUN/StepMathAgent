@@ -1,0 +1,27 @@
+{
+    "GPT-4o": {
+        "api_key": "sk-xxxxxx",
+        "base_url": "https://******",
+        "version": "......"
+    },
+    "o1-mini": {
+        "api_key": "sk-xxxxxx",
+        "base_url": "https://******",
+        "version": "......"
+    },
+    "Claude-3.5": {
+        "api_key": "sk-xxxxxx",
+        "base_url": "https://******",
+        "version": "......"
+    },
+    "GLM-4": {
+        "api_key": "sk-xxxxxx",
+        "base_url": "https://******",
+        "version": "......"
+    },
+    "Qwen-turbo": {
+        "api_key": "sk-xxxxxx",
+        "base_url": "https://******",
+        "version": "......"
+    }
+}
