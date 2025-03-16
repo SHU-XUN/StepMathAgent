@@ -49,5 +49,13 @@ python evaluator.py
 If you find this work useful in your research, please consider citing:
 
 ```
-
+@misc{yang2025stepmathagentstepwiseagentevaluating,
+      title={StepMathAgent: A Step-Wise Agent for Evaluating Mathematical Processes through Tree-of-Error}, 
+      author={Shu-Xun Yang and Cunxiang Wang and Yidong Wang and Xiaotao Gu and Minlie Huang and Jie Tang},
+      year={2025},
+      eprint={2503.10105},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2503.10105}, 
+}
 ```
